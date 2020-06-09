@@ -1,0 +1,6 @@
+/home/rjt1/mc_cnn_fst/original_data_set/2001/bran1
+/home/rjt1/mc_cnn_fst/original_data_set/2001/bran2
+/home/rjt1/mc_cnn_fst/original_data_set/2001/poster
+/home/rjt1/mc_cnn_fst/original_data_set/2001/venus
+/home/rjt1/mc_cnn_fst/original_data_set/2001/sawtooth
+/home/rjt1/mc_cnn_fst/original_data_set/2001/bull

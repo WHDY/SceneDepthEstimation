@@ -1,0 +1,6 @@
+/home/rjt1/mc_cnn_fst/original_data_set/2005/Art
+/home/rjt1/mc_cnn_fst/original_data_set/2005/Books
+/home/rjt1/mc_cnn_fst/original_data_set/2005/Dolls
+/home/rjt1/mc_cnn_fst/original_data_set/2005/Laundry
+/home/rjt1/mc_cnn_fst/original_data_set/2005/Moebius
+/home/rjt1/mc_cnn_fst/original_data_set/2005/Reindeer
