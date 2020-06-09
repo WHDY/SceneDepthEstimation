@@ -1,0 +1,1 @@
+ There are images with ground truth used to evalutate algorithm.You are supposed to download dataset from http://vision.middlebury.edu/stereo/data/ by yourself.

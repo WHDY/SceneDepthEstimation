@@ -1,0 +1,1 @@
+ There are images with ground truth used to generate image patches for training and testing.You are supposed to download dataset from http://vision.middlebury.edu/stereo/data/ by yourself.
